@@ -2,6 +2,8 @@
 
 echo "Hello Git";
 
+echo "feature login branch";
+
 // working directory
 // git init
 // git status (file အခြေအနေကြည့်)
