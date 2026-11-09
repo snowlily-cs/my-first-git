@@ -1,6 +1,10 @@
 <?php
 
-echo "Hello Git";
+echo "Hello GitHub";
+echo "testing";
+echo "test";
+
+echo "git reset test";
 
 // working directory
 // git init
@@ -14,5 +18,9 @@ echo "Hello Git";
 // git commit -m "message"
 // git log
 // git log --oneline
+// git diff
+// git diff filename
+// git diff --staged
+// git diff --staged filename
 
 // working directory => staging => repository
