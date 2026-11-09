@@ -15,4 +15,4 @@ echo "Hello Git";
 // git log
 // git log --oneline
 
-// working directory -> staging -> repository
+// working directory => staging => repository
